@@ -107,8 +107,8 @@ export const galabau: GalabauConfig = {
     "teamSize": "",
     "machines": ""
   },
-  "claim": "Pflaster, Terrassen und Baumfällung in Mannheim.",
-  "heroSubline": "Von der Einfahrt über den Gabionenzaun bis zum Heckenschnitt. Ein Team, feste Bauzeit, geräumte Baustelle. Einsatzgebiet: Mannheim, Ludwigshafen, Heidelberg und rund 40 km Umkreis.",
+  "claim": "Allee Garten- und Landschaftsbau",
+  "heroSubline": "",
   "services": [
     {
       "key": "pflasterarbeiten",
