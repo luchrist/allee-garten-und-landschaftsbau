@@ -131,6 +131,10 @@ export function Hero() {
               {galabau.claim}
             </h1>
 
+            <p className="mt-3 text-[14px] leading-relaxed text-bone/80 drop-shadow-md md:text-[16px]">
+              Laurim Gashi in Mannheim
+            </p>
+
             {/* Auf dem Handy bleibt neben Claim und Buttons kein Platz fuer die
                 Subline, ohne dass der Hero gedraengt wirkt. */}
             {galabau.heroSubline ? (
