@@ -1,0 +1,74 @@
+[
+  {
+    "originalFile": "scraped-01.jpg",
+    "file": "photos/projekte/gepflasterte-terrasse-im-garten-01.jpg",
+    "category": "projekt",
+    "quality": "high",
+    "subject": "Gepflasterte Terrasse im Garten",
+    "subjectSlug": "gepflasterte-terrasse-im-garten",
+    "description": "Eine fertiggestellte Terrasse mit Pflastersteinen im Fischgrätmuster in einem sonnigen Garten."
+  },
+  {
+    "originalFile": "scraped-02.jpg",
+    "file": "photos/projekte/moderner-zaun-mit-gabionen-und-pflasterung-01.jpg",
+    "category": "projekt",
+    "quality": "high",
+    "subject": "Moderner Zaun mit Gabionen und Pflasterung",
+    "subjectSlug": "moderner-zaun-mit-gabionen-und-pflasterung",
+    "description": "Eine moderne Zaunanlage mit dunklen Paneelen und Gabionen, davor eine gepflasterte Fläche."
+  },
+  {
+    "originalFile": "api-01.jpg",
+    "file": "photos/projekte/gepflasterte-terrasse-im-garten-02.jpg",
+    "category": "projekt",
+    "quality": "high",
+    "subject": "Gepflasterte Terrasse im Garten",
+    "subjectSlug": "gepflasterte-terrasse-im-garten",
+    "description": "Eine fertiggestellte Terrasse mit Fischgrätpflaster in einem gepflegten Gartenbereich."
+  },
+  {
+    "originalFile": "api-02.jpg",
+    "file": "photos/projekte/moderner-zaun-mit-gabionen-und-pflasterung-02.jpg",
+    "category": "projekt",
+    "quality": "high",
+    "subject": "Moderner Zaun mit Gabionen und Pflasterung",
+    "subjectSlug": "moderner-zaun-mit-gabionen-und-pflasterung",
+    "description": "Ein moderner Zaun aus dunklen Paneelen und Gabionen mit hellen Steinen, ergänzt durch eine gepflasterte Fläche vor einem Wohnhaus."
+  },
+  {
+    "originalFile": "api-03.jpg",
+    "file": "photos/details/gepflasterte-flache-im-fischgratmuster-01.jpg",
+    "category": "detail",
+    "quality": "high",
+    "subject": "Gepflasterte Fläche im Fischgrätmuster",
+    "subjectSlug": "gepflasterte-flache-im-fischgratmuster",
+    "description": "Eine sauber gepflasterte Fläche im Fischgrätmuster mit einem Randstein und einem Metallzaun."
+  },
+  {
+    "originalFile": "api-04.jpg",
+    "file": "photos/details/gepflasterter-eingangsbereich-mit-rasenfugen-01.jpg",
+    "category": "detail",
+    "quality": "high",
+    "subject": "Gepflasterter Eingangsbereich mit Rasenfugen",
+    "subjectSlug": "gepflasterter-eingangsbereich-mit-rasenfugen",
+    "description": "Das Foto zeigt einen gepflasterten Eingangsbereich mit integrierten Rasenfugen vor einer Garage und Haustür."
+  },
+  {
+    "originalFile": "api-05.jpg",
+    "file": "photos/baustellen/stutzmauer-im-bau-01.jpg",
+    "category": "baustelle",
+    "quality": "high",
+    "subject": "Stützmauer im Bau",
+    "subjectSlug": "stutzmauer-im-bau",
+    "description": "Eine im Bau befindliche Stützmauer aus Betonsteinen auf einer Baustelle mit Erdhaufen."
+  },
+  {
+    "originalFile": "api-06.jpg",
+    "file": "photos/projekte/gabionenzaun-mit-integrierten-paneelen-01.jpg",
+    "category": "projekt",
+    "quality": "high",
+    "subject": "Gabionenzaun mit integrierten Paneelen",
+    "subjectSlug": "gabionenzaun-mit-integrierten-paneelen",
+    "description": "Ein moderner Gabionenzaun mit dunklen Paneelen grenzt eine gepflasterte Einfahrt zur Straße hin ab."
+  }
+]
